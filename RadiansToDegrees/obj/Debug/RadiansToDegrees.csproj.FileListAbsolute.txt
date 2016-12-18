@@ -1,0 +1,6 @@
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\RadiansToDegrees\bin\Debug\RadiansToDegrees.exe.config
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\RadiansToDegrees\bin\Debug\RadiansToDegrees.exe
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\RadiansToDegrees\bin\Debug\RadiansToDegrees.pdb
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\RadiansToDegrees\obj\Debug\RadiansToDegrees.csprojResolveAssemblyReference.cache
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\RadiansToDegrees\obj\Debug\RadiansToDegrees.exe
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\RadiansToDegrees\obj\Debug\RadiansToDegrees.pdb

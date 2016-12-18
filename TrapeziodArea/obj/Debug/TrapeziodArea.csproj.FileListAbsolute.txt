@@ -1,0 +1,5 @@
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\TrapeziodArea\bin\Debug\TrapeziodArea.exe.config
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\TrapeziodArea\bin\Debug\TrapeziodArea.exe
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\TrapeziodArea\bin\Debug\TrapeziodArea.pdb
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\TrapeziodArea\obj\Debug\TrapeziodArea.exe
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\TrapeziodArea\obj\Debug\TrapeziodArea.pdb

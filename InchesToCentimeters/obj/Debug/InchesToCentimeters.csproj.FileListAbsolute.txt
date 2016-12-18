@@ -1,0 +1,5 @@
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\InchesToCentimeters\bin\Debug\InchesToCentimeters.exe.config
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\InchesToCentimeters\bin\Debug\InchesToCentimeters.exe
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\InchesToCentimeters\bin\Debug\InchesToCentimeters.pdb
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\InchesToCentimeters\obj\Debug\InchesToCentimeters.exe
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\InchesToCentimeters\obj\Debug\InchesToCentimeters.pdb

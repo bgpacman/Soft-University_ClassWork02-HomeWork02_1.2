@@ -1,0 +1,6 @@
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\Square Area\bin\Debug\Square Area.exe.config
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\Square Area\bin\Debug\Square Area.exe
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\Square Area\bin\Debug\Square Area.pdb
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\Square Area\obj\Debug\Square Area.csprojResolveAssemblyReference.cache
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\Square Area\obj\Debug\Square Area.exe
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\Square Area\obj\Debug\Square Area.pdb
